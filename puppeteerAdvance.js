@@ -52,3 +52,29 @@ const puppeteerFireFox = require('puppeteer-firefox');
 })().catch({
 
 });
+
+/// working with xpath 
+
+
+/*
+
+await page.type('[name = UserName]', 'Alok Shrivastava');
+
+const [userName] = await page.$x("//input[@name = 'UserName']");
+
+await userName.type("ALOK");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
