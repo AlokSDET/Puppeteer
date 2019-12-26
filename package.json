@@ -1,0 +1,6 @@
+{
+    "devDependencies": {
+        "puppeteer": "^1.19.0",
+        "puppeteer-core": "2.0.0"
+    }
+}
